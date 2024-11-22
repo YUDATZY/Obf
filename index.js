@@ -5,7 +5,7 @@ const obfuscateCode = require('./toolsobf');
 const axios = require('axios');
 
 // Setup bot token and owner ID
-const TOKEN = '8124776361:AAHuhqw5oCQfwmW5-mRxWoCWkSLt5CxJ0xw';  // Replace with your bot token
+const TOKEN = '8124776361:AAGzyReZIo90nAUKXOQyO7xEfjV8DX2ymM8';  // Replace with your bot token
 const OWNER_ID = '6991457866'; // Replace with your owner ID
 const USERS_PREMIUM_FILE = 'userspremium.json';
 const bot = new Telegraf(TOKEN);
